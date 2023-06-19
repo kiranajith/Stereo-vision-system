@@ -35,7 +35,7 @@ Please ensure you include the correct relative path of the images and calibratio
 - Use of disparity information to compute the depth map.
 - Saving the depth map as grayscale and colour images.
 
-A detailed explanation of the steps involved is given in the report.pdf
+A detailed explanation of the steps involved is given in the report title 'kiran99_proj4.pdf'
 
 
 ## References
