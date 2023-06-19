@@ -10,9 +10,9 @@ This project is part of the ENPM673 - Perception for Autonomous Robots coursewor
 ## Instructions to Run the Code
 Ensure you have the required dependencies installed in your environment. Python scripts and sample images are provided in the repository.
 
-1. Clone this repository using the command: `git clone https://github.com/YourGithubHandle/YourRepositoryName.git`
+1. Clone this repository using the command: `git clone https://github.com/kiranajith/Stereo-vision-system-.git`
 2. Navigate to the directory: `cd YourRepositoryName`
-3. Run the python scripts using the command: `python script_name.py`
+3. Run the Python script using the command: `python project4.py`
 
 Please ensure you include the correct relative path of the images and calibration text file.
 
@@ -33,16 +33,10 @@ Please ensure you include the correct relative path of the images and calibratio
 
 ### Depth Map Computation
 - Use of disparity information to compute the depth map.
-- Saving of the depth map as grayscale and color images.
+- Saving the depth map as grayscale and colour images.
 
-A detailed explanation for the steps involved is given in the report.pdf
+A detailed explanation of the steps involved is given in the report.pdf
 
-## Contact
-If you encounter any issues while running the code, please open an issue in this repository or contact us at:
-- YourName: youremail@terpmail.umd.edu
-
-## Acknowledgments
-This project is a part of ENPM673 - Perception for Autonomous Robots at the University of Maryland, College Park. The datasets used are part of the MiddleBury Stereo Dataset.
 
 ## References
 D. Scharstein, R. Szeliski and R. Zabih, "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms," Proceedings IEEE Workshop on Stereo and Multi-Baseline Vision (SMBV 2001), Kauai, HI, USA, 2001, pp. 131-140, doi: 10.1109/SMBV.2001.988771.
